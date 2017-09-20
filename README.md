@@ -1,2 +1,2 @@
-# coursera-moduel5-solution
+# coursera-module5-solution
 Coursera Module 5 Solution
